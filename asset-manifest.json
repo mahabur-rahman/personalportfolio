@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/personalportfolio/static/css/main.0dc5689d.chunk.css",
+    "main.js": "/personalportfolio/static/js/main.91160b42.chunk.js",
+    "main.js.map": "/personalportfolio/static/js/main.91160b42.chunk.js.map",
+    "runtime-main.js": "/personalportfolio/static/js/runtime-main.e1e43607.js",
+    "runtime-main.js.map": "/personalportfolio/static/js/runtime-main.e1e43607.js.map",
+    "static/css/2.4be38407.chunk.css": "/personalportfolio/static/css/2.4be38407.chunk.css",
+    "static/js/2.eb69bde9.chunk.js": "/personalportfolio/static/js/2.eb69bde9.chunk.js",
+    "static/js/2.eb69bde9.chunk.js.map": "/personalportfolio/static/js/2.eb69bde9.chunk.js.map",
+    "index.html": "/personalportfolio/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/personalportfolio/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.0dc5689d.chunk.css.map": "/personalportfolio/static/css/main.0dc5689d.chunk.css.map",
+    "static/js/2.eb69bde9.chunk.js.LICENSE.txt": "/personalportfolio/static/js/2.eb69bde9.chunk.js.LICENSE.txt",
+    "static/media/contact.5735ca74.svg": "/personalportfolio/static/media/contact.5735ca74.svg",
+    "static/media/filter1.bb6b6d28.svg": "/personalportfolio/static/media/filter1.bb6b6d28.svg",
+    "static/media/filter2.7e99f015.svg": "/personalportfolio/static/media/filter2.7e99f015.svg",
+    "static/media/filter3.fbd14a8d.svg": "/personalportfolio/static/media/filter3.fbd14a8d.svg",
+    "static/media/filter4.45ac40c5.svg": "/personalportfolio/static/media/filter4.45ac40c5.svg",
+    "static/media/filter5.92876869.svg": "/personalportfolio/static/media/filter5.92876869.svg",
+    "static/media/filter6.0fe7d91b.svg": "/personalportfolio/static/media/filter6.0fe7d91b.svg",
+    "static/media/filter7.c9534113.svg": "/personalportfolio/static/media/filter7.c9534113.svg",
+    "static/media/filter8.c726090b.svg": "/personalportfolio/static/media/filter8.c726090b.svg",
+    "static/media/filter9.c352e105.svg": "/personalportfolio/static/media/filter9.c352e105.svg",
+    "static/media/man.709dd8bc.png": "/personalportfolio/static/media/man.709dd8bc.png",
+    "static/media/slide1.17398cf6.svg": "/personalportfolio/static/media/slide1.17398cf6.svg",
+    "static/media/slide2.850a2933.svg": "/personalportfolio/static/media/slide2.850a2933.svg",
+    "static/media/slide3.872e1c9a.svg": "/personalportfolio/static/media/slide3.872e1c9a.svg",
+    "static/media/testimonial1.57f16440.svg": "/personalportfolio/static/media/testimonial1.57f16440.svg",
+    "static/media/testimonial2.fad0b42b.svg": "/personalportfolio/static/media/testimonial2.fad0b42b.svg",
+    "static/media/testimonial3.1d8dff47.svg": "/personalportfolio/static/media/testimonial3.1d8dff47.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1e43607.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.eb69bde9.chunk.js",
+    "static/css/main.0dc5689d.chunk.css",
+    "static/js/main.91160b42.chunk.js"
+  ]
+}
