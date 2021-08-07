@@ -1,0 +1,53 @@
+@media(max-width: 1199px) {
+    #testimonial {
+        .card {
+            height: 390px;
+        }
+        .featured {
+            height: 410px;
+            margin: -10px 0;
+        }
+    }
+}
+
+@media(max-width: 991px) {
+    #heroBanner {
+        min-height: 75vh;
+        text-align: center;
+    }
+    #heroBanner .hero-banner-img {
+        display: none;
+    }
+    #heroBanner .down-arrow {
+        left: 0;
+    }
+    #footer .top-arrow span {
+        top: 85%;
+    }
+}
+
+@media(max-width: 767px) {
+    #header {
+        .phone,
+        .email {
+            font-size: 13px;
+        }
+    }
+}
+
+@media(max-width: 575px) {
+    #header {
+        .phone,
+        .email,
+        .person-icon {
+            display: none;
+        }
+    }
+}
+
+@media(max-width: 500px) {
+    #heroBanner .hero-banner-content .info,
+    #heroBanner .hero-banner-content .move {
+        font-size: 23px;
+    }
+}
